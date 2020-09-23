@@ -76,10 +76,10 @@
             // 
             this.team0.AutoSize = true;
             this.team0.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.team0.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.team0.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.team0.Location = new System.Drawing.Point(12, 9);
             this.team0.Name = "team0";
-            this.team0.Size = new System.Drawing.Size(82, 40);
+            this.team0.Size = new System.Drawing.Size(68, 32);
             this.team0.TabIndex = 1;
             this.team0.Text = "team";
             // 
@@ -411,7 +411,6 @@
             this.team28.Size = new System.Drawing.Size(82, 40);
             this.team28.TabIndex = 1;
             this.team28.Text = "team";
-            this.team28.Click += new System.EventHandler(this.team28_Click);
             // 
             // team29
             // 

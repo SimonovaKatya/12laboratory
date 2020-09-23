@@ -49,9 +49,5 @@ namespace _12laboratory
 			}
 		}
 
-        private void team28_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
