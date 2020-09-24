@@ -49,5 +49,24 @@ namespace _12laboratory
 			}
 		}
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void team21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void result_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void team24_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
